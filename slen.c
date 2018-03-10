@@ -6,6 +6,7 @@
 #include <string.h>
 
 int main(int argc, char *argv[]){
+	/* Check that we have at least one command */
 	if(argc == 1){
 		fprintf(stderr, "Usage: %s STRING...\n", argv[0]);
 		fprintf(stderr, "Print the length of the STRING(s)\n");
@@ -14,6 +15,7 @@ int main(int argc, char *argv[]){
 
 	size_t len;
 
+	/* Go through each argument and print its length */
 	while(--argc){
 		len = strlen(*(++argv));
 		printf("%s: %zu\n", *argv, len);
