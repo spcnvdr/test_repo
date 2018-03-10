@@ -24,6 +24,7 @@ for me. That is __awesome__ `monospace` *italic*
 
 **And this is the end**
 
+Check out the symbols! 
 &amp; &amp; &copy;
 
 
