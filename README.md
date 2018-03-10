@@ -6,18 +6,24 @@ repositories. I should make a Github account, but I am lazy and unsure
 if I am ready to release any of my projects to the world. 
 
 **How about a list**
+
 * Blue
+
 * Green
+
 * Red
 
 **Syntax highlighting**
+
 I had no idea that vim knew about markdown syntax and would highlight it 
 for me. That is __awesome__ `monospace` *italic* 
 
 **How about a ruler?**
-------
+
+*** 
 
 **And this is the end**
+
 &amp; &amp; &copy;
 
 
