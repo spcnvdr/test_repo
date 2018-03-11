@@ -1,7 +1,7 @@
 #Git Test Repo!
 This is just a test of playing with git to manage my local projects
 in a more efficient manner. I hope that in the future, all my projects
-will be mangaged through git, either using local or remote (Github) 
+will be managed through git, either using local or remote (Github) 
 repositories. I should make a Github account, but I am lazy and unsure
 if I am ready to release any of my projects to the world. 
 
