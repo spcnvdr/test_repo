@@ -13,15 +13,13 @@ int main(int argc, char *argv[]){
 		return(1);
 	}
 
-	size_t len;
-
 	/* Go through each argument and print its length */
 	while(--argc){
-		len = strlen(*(++argv));
-		printf("%s: %zu\n", *argv, len);
+		/* Increment argv to point to the next argument and skip
+		 * argv[0] */
+		argv++;
+		printf("'%s': %zu\n", *argv, strlen(*argv));
 	}
 
 	return(0);
 }
-
-
