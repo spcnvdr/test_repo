@@ -1,4 +1,5 @@
 #Git Test Repo!
+
 This is just a test of playing with git to manage my local projects
 in a more efficient manner. I hope that in the future, all my projects
 will be managed through git, either using local or remote (Github) 
