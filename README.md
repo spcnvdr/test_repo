@@ -1,10 +1,10 @@
 # Git Test Repo!
 
-This is just a test of playing with git to manage my local projects
-in a more efficient manner. I hope that in the future, all my projects
+This is just a test of repo for me to use with git to manage my local 
+projects in a more efficient manner. Maybe in the future, all my projects
 will be managed through git, either using local or remote (Github) 
-repositories. I should make a Github account, but I am lazy and unsure
-if I am ready to release any of my projects to the world. 
+repositories. This README is also used for testing out GitHub's flavor of
+markdown.
 
 **How about a list**
 
@@ -14,10 +14,9 @@ if I am ready to release any of my projects to the world.
 
 * Red
 
-**Syntax highlighting**
+**Text features**
 
-I had no idea that vim knew about markdown syntax and would highlight it 
-for me. That is __awesome__ `monospace` *italic* 
+That is __awesome__ `monospace` *italic* 
 
 **How about a ruler?**
 
@@ -25,7 +24,8 @@ for me. That is __awesome__ `monospace` *italic*
 
 **And this is the end**
 
-Test out the symbols! 
+**Test out some symbols!**
+
 &amp; &amp; &copy;
 
 **To Do List**
@@ -33,4 +33,5 @@ Test out the symbols!
 - [x] One
 - [ ] Two
 - [ ] Three
+- [ ] Delete this repository
 
