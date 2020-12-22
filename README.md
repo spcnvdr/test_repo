@@ -31,7 +31,7 @@ That is __awesome__ `monospace` *italic*
 **To Do List**
 
 - [x] One
-- [ ] Two
+- [x] Two
 - [ ] Three
 - [ ] Delete this repository
 
